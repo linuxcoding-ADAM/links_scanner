@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # API Keys (Replace with your own)
-GOOGLE_API_KEY="Set_your_google_api_key"
-VIRUSTOTAL_API_KEY="set_your_virus_tatal_api_key"
+# NOTE: These are example placeholders, not real keys.
+GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY_HERE"
+VIRUSTOTAL_API_KEY="YOUR_VIRUSTOTAL_API_KEY_HERE"
 
 # Colors for styling
 RED="\e[31m"
