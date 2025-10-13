@@ -1,0 +1,20 @@
+# Ignore API keys and local configs
+.env
+*.key
+keys.txt
+
+# Logs and outputs
+*.log
+*.tmp
+*.bak
+output/
+results/
+
+# System / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Bash history or test files
+*.sh~
