@@ -37,5 +37,4 @@ Just make sure **you never commit real API keys** to the repository.
 ```bash
 sudo apt update
 sudo apt install -y curl jq dnsutils whois openssl
-sudo apt update
-sudo apt install -y curl jq dnsutils whois openssl
+
