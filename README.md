@@ -27,7 +27,7 @@ Just make sure **you never commit real API keys** to the repository.
 - OS: **Linux** or **macOS** (requires `bash`)
 - Tools:  
   `curl`, `jq`, `whois`, `dig` or `host`, `openssl`, `grep`, `sed`, `awk`
-- Optional (for API checks):  
+- You need to get API's for the script to make it works:  
   - `GOOGLE_API_KEY` — for Google Safe Browsing API  
   - `VIRUSTOTAL_API_KEY` — for VirusTotal API
 
