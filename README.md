@@ -17,7 +17,7 @@ A lightweight and powerful Bash utility for analyzing URLs and domains. It perfo
 ### 📱 Mobile Version
 
 <div align="center">
-    <img src="./screenshots/mobile-dark.png" width="280" alt="Mobile Version">
+    <img src="./screenshots/mobilee-dark.png" width="280" alt="Mobile Version">
 </div>
 
 ---
