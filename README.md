@@ -10,7 +10,7 @@ A lightweight and powerful Bash utility for analyzing URLs and domains. It perfo
 
 ### 🖥️ Desktop Version
 
-<img src="./screenshots/desktop-dark.png" alt="Desktop Version">
+<img src="./screenshots/desktopp-dark.png" alt="Desktop Version">
 
 ---
 
